@@ -61,12 +61,8 @@ O **Master Hair AI** é uma inteligência artificial personalizada criada para s
 
 ---
 
-## 👩‍💻 Sobre a Autora
+## 👨‍💻 Desenvolvedor
 
-Desenvolvido como projeto de inovação aplicada à área da beleza, unindo conhecimento técnico de salão com inteligência artificial generativa.
+**Gabriel Carlos**
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+[LinkedIn](https://www.linkedin.com/in/itsgabrielcarlos) • [GitHub](https://github.com/Gabrielcarlos03)
