@@ -8,6 +8,14 @@
 
 O **Master Hair AI** é uma inteligência artificial personalizada criada para simular decisões de uma profissional de beleza experiente. Desenvolvida com foco em **corte, colorimetria, química capilar e atendimento ao cliente**, a IA vai além de respostas baseadas em documentos — ela raciocina como uma consultora real.
 
+## 📸 Preview
+
+![Interface Inicial](INTERFACE%20INICIAL.png)
+
+![Pergunta](PERGUNTA.png)
+
+![Resposta](RESPOSTA.png)
+
 ---
 
 ## ✨ Funcionalidades
